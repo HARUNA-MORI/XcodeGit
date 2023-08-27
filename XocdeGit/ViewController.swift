@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("初めてのコミット")
     }
 
-
+    @IBAction func button(_ sender: Any) {
+    }
+    
 }
 
